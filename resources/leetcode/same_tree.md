@@ -34,6 +34,20 @@ Output: false
 
 ## Analysis
 
+### Problem Components
+
+- Binary Tree
+- Depth-first search
+- Tree comparison
+- Pre-order traversal -> [root, left, right]
+
+### Solution Components
+
+- Tree representation
+- Recursive vs. iterative traversal
+  - Iterative -> Stack to hold node pairs
+- Short-circuit evaluation
+
 
 ## Solutions
 

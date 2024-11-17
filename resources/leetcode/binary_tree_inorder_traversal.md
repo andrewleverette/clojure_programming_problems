@@ -40,9 +40,8 @@ Output: [1]
 ### Problem Components
 
 - Binary Tree
-- Inorder traversal -> [left, root, right]
+- In-order traversal -> [left, root, right]
 - Depth-first search
-- Tree representation
 
 ### Solution Components
 
